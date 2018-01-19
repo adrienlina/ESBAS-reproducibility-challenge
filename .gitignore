@@ -1,0 +1,13 @@
+# Python
+__pycache__
+*.pyc
+venv/
+
+# Latex files
+*.aux
+*.dvi
+*.blg
+*.out
+*.gz
+*.bbl
+*.log
